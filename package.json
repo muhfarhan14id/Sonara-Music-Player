@@ -7,5 +7,5 @@
     "dev": "vercel dev",
     "test": "node test/parse.test.js"
   },
-  "engines": { "node": "20.x" }
+  "engines": { "node": "26.x" }
 }
