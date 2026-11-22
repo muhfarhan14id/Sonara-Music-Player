@@ -1,0 +1,11 @@
+{
+  "name": "sonara-music-pwa",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Pemutar musik PWA berbasis YT Music dengan cache offline, siap deploy ke Vercel.",
+  "scripts": {
+    "dev": "vercel dev",
+    "test": "node test/parse.test.js"
+  },
+  "engines": { "node": "20.x" }
+}
